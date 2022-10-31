@@ -14,5 +14,5 @@ $ python -m venv 'Nombre'
 ## Install requeriments
 
 ```
-$ python install requeriments.txt
+$ python install requirements.txt
 ```
